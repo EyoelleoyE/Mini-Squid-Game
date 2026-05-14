@@ -12,6 +12,16 @@ You have been abducted and placed at the start of a deadly glass bridge. To win 
 
 ## 🚀 How to Run
 1. Clone the repository.
-2. Compile the code using a C++ compiler:
-   ```bash
-   g++ terminal_game.cpp -o glass_bridge
+Installation & Setup
+To play this game on your computer, you need a C++ compiler installed (like GCC or Clang).
+
+Clone the project:
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   cd YOUR_REPOSITORY_NAME
+   
+Compile the code:
+This command creates an "executable" file named squid_game.
+    g++ terminal_game.cpp -o squid_game
+    
+Run the game:
+   ./squid_game
