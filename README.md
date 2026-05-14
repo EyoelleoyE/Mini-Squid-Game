@@ -18,7 +18,7 @@ You have been abducted and placed at the start of a deadly glass bridge. To win 
    * cd YOUR_REPOSITORY_NAME
    
 * Compile the code:
-* This command creates an "executable" file named squid_game.
+  This command creates an "executable" file named squid_game.
     * g++ terminal_game.cpp -o squid_game
     
 * Run the game:
