@@ -11,17 +11,15 @@ You have been abducted and placed at the start of a deadly glass bridge. To win 
 *   **Restart Logic:** If you lose, you can choose to try again or exit the program.
 
 ## 🚀 How to Run
-1. Clone the repository.
-Installation & Setup
-To play this game on your computer, you need a C++ compiler installed (like GCC or Clang).
+*  To play this game on your computer, you need a C++ compiler installed (like GCC or Clang).
 
-Clone the project:
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
+* Clone the project:
+   * git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   * cd YOUR_REPOSITORY_NAME
    
-Compile the code:
-This command creates an "executable" file named squid_game.
-    g++ terminal_game.cpp -o squid_game
+* Compile the code:
+* This command creates an "executable" file named squid_game.
+    * g++ terminal_game.cpp -o squid_game
     
-Run the game:
-   ./squid_game
+* Run the game:
+   * ./squid_game
